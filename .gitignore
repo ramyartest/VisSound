@@ -1,0 +1,21 @@
+# Virtual environment
+project_env/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Videos and audio
+*.mp4
+*.wav
+*.mp3
+
+# Outputs
+outputs/
+generated*
+
+# Models
+*.pth
+*.pt
