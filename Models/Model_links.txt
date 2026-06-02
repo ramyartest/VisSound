@@ -1,0 +1,10 @@
+Model References
+
+BLIP:
+https://huggingface.co/Salesforce/blip-image-captioning-large
+
+Stable Audio Open:
+https://huggingface.co/stabilityai/stable-audio-open-1.0
+
+DeepFace:
+https://github.com/serengil/deepface

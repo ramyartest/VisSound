@@ -1,0 +1,27 @@
+Models Used in VisSound Project
+
+1. BLIP Model
+
+   * Purpose: Scene and object detection
+   * Model: Salesforce/blip-image-captioning-large
+
+2. DeepFace
+
+   * Purpose: Facial emotion recognition
+
+3. Haar Cascade
+
+   * Purpose: Face detection
+
+4. Stable Audio Open
+
+   * Purpose: AI sound and music generation
+   * Model: stabilityai/stable-audio-open-1.0
+
+5. OpenCV
+
+   * Purpose: Motion analysis and frame extraction
+
+6. PyTorch
+
+   * Purpose: Deep learning inference and GPU acceleration
