@@ -68,6 +68,9 @@ python -m venv project_env
 ### Activate Environment (Windows)
 
 ```bash
+ Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+
+```bash
 .\project_env\Scripts\Activate
 ```
 
@@ -100,6 +103,16 @@ python "Sound pipeline v25.py"
 3. Analyze motion and emotions
 4. Generate matching sound/audio
 5. Merge generated audio with video
+
+---
+
+# Demo Outputs
+
+## Output Video 1
+[Click here to watch Output Video 1][(sample_outputs/demo_output1.mp4)](https://drive.google.com/file/d/1Nb9tIEqDF8n7B6s-Lp7AvrmYZ-dIwIGC/view?usp=drive_link)
+
+## Output Video 2
+[Click here to watch Output Video 2](sample_outputs/demo_output2.mp4)https://drive.google.com/file/d/1mLmtPGgltlRcG4g51e5CRLc-dOJ0HNTf/view?usp=drive_link
 
 ---
 
